@@ -7,4 +7,5 @@ int main()
     {
         printf("even number:%d\n", i);
     }
+    printf("hello!");
 }
